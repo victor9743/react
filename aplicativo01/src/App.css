@@ -1,0 +1,13 @@
+.texto{
+
+  color: blue;
+  font-size: 3em;
+  padding: 10px;
+
+}
+.caixa{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
